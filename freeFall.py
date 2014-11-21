@@ -38,4 +38,4 @@ plt.suptitle("Potential Energy & Kinetic Energy During Free Fall", fontsize = 15
 
 
 plt.show()
-plt.savefig("KE & PE during free fall.png")
+plt.savefig("KE&PEDuringFreeFall.png")
